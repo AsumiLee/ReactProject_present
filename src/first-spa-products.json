@@ -1,0 +1,8 @@
+[
+    {"id" : 1,"name" : "HI-GOLD", "price" : 1200, "image" : "id1.jpg","description":"硬式內野右投用紅色"},
+    {"id" : 2,"name" : "XANAX", "price" : 1200, "image" : "id2.jpg","description":"硬式內野右投用紅色"},
+    {"id" : 3,"name" : "SSK", "price" : 1000, "image" : "id3.jpg","description":"硬式 T TYPE 內野右投用橘色"},
+    {"id" : 4,"name" : "ZETT", "price" : 1350,"image" : "id4.jpg","description":"硬式 VL 內野右投用黑色"},
+    {"id" : 5,"name" : "ATOMS", "price" : 1250,"image" : "id5.jpg","description":"日本製 硬式內野右投用橘色"},
+    {"id" : 6,"name" : "MIZUNO", "price" : 1500,"image" : "id6.jpg","description":"硬式 H Selection SIGNA GA9 內野右投用紅色"}
+]

@@ -1,12 +1,5 @@
-import React from 'react'
-
-export default function Title({mainTitle, /* subTitle */}) {
+export default function Title({mainTitle}) {
   return (
-    <div>
-      <h1 style={{backgroundColor:'orange', borderBottom:'5px solid red'}}>
-      {mainTitle}
-      {/* {subTitle} */}
-      </h1>
-    </div>
+      <h1>{mainTitle}</h1>
   )
 }
