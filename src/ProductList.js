@@ -13,7 +13,7 @@ export default function ProductList() {
         //1 : 無第二個參數 : component每次render都會觸發
         //2 : Dependency Array是空array時 : 只會在第一次網頁render時會觸發
         //3 : Dependency Array是有變數時 : 第一次網頁render時 + 指定的變數改變 會觸發
-        fetch('https://raw.githubusercontent.com/AsumiLee/first-spa/64540a37abcce034025b9b2f7ba02a64f320519f/first-spa-products.json')
+        fetch('https://raw.githubusercontent.com/AsumiLee/ReactProject_interview/master/first-spa-products.json')
             .then(response => response.json())
             .then(data => setProductList(data))
 
