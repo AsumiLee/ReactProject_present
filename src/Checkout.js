@@ -12,7 +12,7 @@ export default function Checkout() {
     let grandTotal = cartItems.reduce((total, product)=>{
         return total += product.price*product.quantity
     },0)
-    const freeShippingPrice = 99
+    const freeShippingPrice = 1300
 
     return (
         <>
